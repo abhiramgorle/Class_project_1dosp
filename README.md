@@ -21,4 +21,7 @@ The objective of this project is to leverage the Pony programming language and t
 The result of running our program with the inputs `1000000 4` is:
 ![Result Image](path/to/image)
 
+## Highest Output we were able to get:
+![Highest Output Image](path/to/image)
+
 
